@@ -1,0 +1,29 @@
+
+Stay Safe Online: A Guide for Students
+
+
+Enable Two-Factor Authentication (2FA): Always use 2FA on your email, GitHub, and LinkedIn accounts.
+
+
+Inspect Links: Hover over any link in an email to see the actual URL before clicking.
+
+
+Use Strong, Unique Passwords: Avoid using the same password for your college portal and personal social media.
+
+
+Verify the Sender: If an email seems urgent or suspicious, contact the office directly through a known phone number or official website.
+
+
+Update Software Regularly: Keep your browser and operating system updated to patch security vulnerabilities.
+
+
+Be Wary of Public Wi-Fi: Avoid accessing bank accounts or sensitive portals on unprotected public networks.
+
+
+UPI Safety - Verify Names: Always double-check the recipient's name in your UPI app before hitting "Pay" or entering your PIN.
+
+
+UPI Safety - PIN is for Paying: Remember that you never need to enter your UPI PIN to receive money; if someone asks you to enter it for a "refund," it is a scam.
+
+
+Reporting Channel: If you encounter or fall victim to a cybercrime, report it immediately at the National Cyber Crime Portal (cybercrime.gov.in) or call the Helpline 1930
