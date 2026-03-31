@@ -1,0 +1,17 @@
+Digital Presence and Career Branding
+To build a professional foundation I have set up my digital presence on three key platforms: GitHub, LinkedIn and Kaggle.
+* GitHub helps me manage my projects and work with others.
+* LinkedIn is my go-to network for professionals.
+* Kaggle is where I practice with data and compete with others.
+Platform Optimization
+* GitHub: I made a profile to introduce myself and showcase my technical skills. I share my studies and C++ projects to demonstrate my progress.
+* LinkedIn: My profile now matches my student status at VIT Bhopal University. This way recruiters and peers can see my achievements.
+* Kaggle: I set up my account to explore datasets. This helps me apply what I learn to real-world problems.
+Long-term Career Strategy
+Over the four years I plan to use these platforms to track my growth.
+I will use GitHub to document my coding journey and share my assignments.
+This will show my progress.
+LinkedIn will help me connect with industry professionals and find internships.
+Kaggle will be my testing ground for data analysis and C++ skills.
+By building these profiles I am creating a lasting professional presence.
+These platforms will grow with my skills. Help me stay competitive, in engineering.
